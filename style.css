@@ -1,0 +1,76 @@
+body{
+    padding-left: 200px;
+}
+.button{
+    width: 51%;
+    height: 327px;
+    background-color: aqua;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2px;
+    border: 118px;
+    padding: 18px;
+    align-content: center;
+}
+
+.btn1{
+    width: 60%;
+    height: 100px;
+    background-color: rgb(230, 51, 81);
+    text-align: center;
+    
+
+}
+.btn2{
+    width:30%;
+    height: 100px;
+    background-color: rgb(230, 51, 81);
+    text-align: center;
+
+}
+.btn3{
+    width:55%;
+    height: 100px;
+    background-color: rgb(230, 51, 81);
+    text-align: center;
+    order:1;
+    
+    
+    
+    
+
+}
+
+
+.btn4{
+    width:30%;
+    height: 100px;
+    background-color: rgb(230, 51, 81);
+    text-align: center;
+}
+.btn5{
+    width:30%;
+    height: 100px;
+    background-color: rgb(230, 51, 81);
+    text-align: center;
+
+    order: 1;
+}
+.btn6{
+    width:30%;
+    height: 100px;
+    background-color: rgb(230, 51, 81);
+    text-align: center;
+    order:1 ;
+}
+
+.btn7{
+    width:30%;
+    height: 100px;
+    background-color: rgb(230, 51, 81);
+    text-align: center;
+    order: 1;
+}
+
+
+ 
